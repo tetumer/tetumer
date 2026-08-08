@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Uday
 
-<!--
-**tetumer/tetumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+I'm a CSE student interested in software development, backend systems, machine learning, and building things that actually work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies
+
+**Languages**
+
+`C` `C++` `C#` `JavaScript` `Python`
+
+**Development**
+
+`React` `ASP.NET Core` `Node.js` `Entity Framework`
+
+**Tools**
+
+`Git` `GitHub` `SQLite` `VS Code`
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetumer&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=tetumer&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Currently Building
+
+### 🏥 Hospital Management System
+
+A full-stack hospital management system built with:
+
+* React frontend
+* ASP.NET Core Web API
+* Entity Framework Core
+* SQLite
+* REST APIs
+
+---
+
+## 📌 Featured Projects
+
+Check out my repositories below to see what I'm building.
+
+---
+
+<p align="center">
+  <i>Still learning. Still building. Still breaking things. 😭</i>
+</p>
