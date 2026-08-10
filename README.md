@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Uday
+# 👋 Hi, I'm Tetumer
 
 ### Computer Science & Engineering Student
 
