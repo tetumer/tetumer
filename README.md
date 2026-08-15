@@ -14,7 +14,7 @@ I'm a CSE student interested in software development, backend systems, machine l
 
 **Development**
 
-`React` `ASP.NET Core` `Node.js` `Entity Framework`
+`React` `ASP.NET Core` `Node.js` `Entity Framework Core`
 
 **Tools**
 
@@ -22,19 +22,12 @@ I'm a CSE student interested in software development, backend systems, machine l
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetumer&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tetumer&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/tetumer">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tetumer&theme=tokyo-night&hide_border=true" />
+  </a>
 </p>
 
 ---
