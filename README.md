@@ -68,17 +68,13 @@ A full-stack hospital management system designed around real-world hospital work
 
 ---
 
-# 📌 Projects
+📌 Projects
 
 <p align="center">
 
-<a href="https://github.com/tetumer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetumer&repo=task&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/tetumer/BALL"> <img src="https://github.com/tetumer/BALL" width="45%" /> </a>
 
-<a href="https://github.com/tetumer/BALL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tetumer&repo=BALL&theme=tokyonight&hide_border=true" />
-</a>
+<a href="https://github.com/tetumer/task"> <img src="https://github.com/tetumer/task" width="45%" /> </a>
 
 </p>
 
@@ -92,11 +88,9 @@ A full-stack hospital management system designed around real-world hospital work
 
 ---
 
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tetumer/tetumer/output/github-contribution-grid-snake.svg" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/tetumer/tetumer/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </p>
 
 ---
 
@@ -112,12 +106,9 @@ Systems          ████████████░░░░░░░░
 
 ---
 
-# 📊 GitHub Stats
+📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetumer&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> </p>
 
 ---
 
