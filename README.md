@@ -66,17 +66,7 @@ A full-stack hospital management system designed around real-world hospital work
 
 `React` → `ASP.NET Core Web API` → `Entity Framework Core` → `SQLite`
 
----
 
-📌 Projects
-
-<p align="center">
-
-<a href="https://github.com/tetumer/BALL"> <img src="https://github.com/tetumer/BALL" width="45%" /> </a>
-
-<a href="https://github.com/tetumer/task"> <img src="https://github.com/tetumer/task" width="45%" /> </a>
-
-</p>
 
 ---
 
@@ -88,11 +78,6 @@ A full-stack hospital management system designed around real-world hospital work
 
 ---
 
-🐍 Contribution Snake
-
-<p align="center"> <img src="https://raw.githubusercontent.com/tetumer/tetumer/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" /> </p>
-
----
 
 # 🎯 What I'm Learning
 
@@ -104,13 +89,8 @@ Machine Learning ██████████████░░░░░░
 Systems          ████████████░░░░░░░░
 ```
 
----
 
-📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> </p>
-
----
 
 # ⚡ Currently
 
