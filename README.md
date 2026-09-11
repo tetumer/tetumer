@@ -26,86 +26,114 @@
                 └──────┬───────┘
                        │
                     UNKNOWN
+```
 
-</div>ABOUT ME
+</div>
+
+## ABOUT ME
 
 I'm a CSE student who likes building things and figuring out what's happening underneath them.
 
 My interests sit somewhere around:
 
-Software · Systems · Game Development · Cybersecurity · Physics · Mathematics
+`Software` · `Systems` · `Game Development` · `Cybersecurity` · `Physics` · `Mathematics`
 
 I don't really like staying inside one box.
 
-
 ---
 
-<div align="center">e^(iπ) + 1 = 0
+<div align="center">
 
-                         │
-                         ▼
+```text
+                 e^(iπ) + 1 = 0
 
-                 δ ≈ 4.669201609...
+                       │
+                       ▼
 
-                         │
-                         ▼
+                δ = 4.669201609...
 
-              ORDER  →  COMPLEXITY  →  CHAOS
+                       │
+                       ▼
+
+                 ORDER → CHAOS
+```
 
 </div>
+
 ---
 
-WHAT I BUILD
+## WHAT I BUILD
 
 <table>
 <tr>
-<td width="50%">Moi
+<td width="50%">
+
+### Moi
 
 A productivity system built around tasks, time, XP and a virtual economy.
 
-React Node.js Express Turso
+`React` `Node.js` `Express` `Turso`
 
-View Project
+[View Project](https://github.com/tetumer/task-)
 
-</td><td width="50%">Hospital Management System
+</td>
+
+<td width="50%">
+
+### Hospital Management System
 
 A full-stack hospital management system with role-based access and medical workflows.
 
-React ASP.NET Core EF Core SQLite
+`React` `ASP.NET Core` `EF Core` `SQLite`
 
-View Project
+[View Project](https://github.com/tetumer/Hostpital-app)
 
 </td>
-</tr><tr>
-<td>Physics
+</tr>
+
+<tr>
+<td>
+
+### Physics
 
 C++ experiments and simulations connecting programming with mathematical and physical ideas.
 
-C++ Math Physics
+`C++` `Math` `Physics`
 
-View Project
+[View Project](https://github.com/tetumer/Physics)
 
-</td><td>Tools
+</td>
+
+<td>
+
+### Tools
 
 Small utilities built to solve problems and experiment with programming.
 
-Python C++
+`Python` `C++`
 
-View Project
+[View Project](https://github.com/tetumer/tools)
 
 </td>
 </tr>
 </table>
+
 ---
 
-<div align="center">CURRENT STACK
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,nodejs,react,dotnet,git,github,linux,godot&theme=dark"/></div>
+## CURRENT STACK
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,nodejs,react,dotnet,git,github,linux,godot&theme=dark"/>
+
+</div>
+
 ---
 
-HOW I LIKE TO BUILD
+## HOW I LIKE TO BUILD
 
-IDEA
+```text
+        IDEA
           │
           ▼
        EXPERIMENT
@@ -123,20 +151,30 @@ IDEA
                           │
                           ▼
                        REBUILD
+```
 
 A project doesn't have to be huge.
 
 Sometimes a small experiment is enough to uncover something interesting.
 
+---
+
+<div align="center">
+
+## GITHUB
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&hide_border=true&bg_color=050505&title_color=FF3333&icon_color=FF3333&text_color=CCCCCC&ring_color=8B0000"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetumer&layout=compact&hide_border=true&bg_color=050505&title_color=FF3333&text_color=CCCCCC"/>
+
+</div>
 
 ---
 
-<div align="center">GITHUB
+<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&hide_border=true&bg_color=050505&title_color=FF3333&icon_color=FF3333&text_color=CCCCCC&ring_color=8B0000"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetumer&layout=compact&hide_border=true&bg_color=050505&title_color=FF3333&text_color=CCCCCC"/></div>
----
-
-<div align="center">.
+```text
+                         .
                        .   .
                      .       .
                    .           .
@@ -163,20 +201,26 @@ Sometimes a small experiment is enough to uncover something interesting.
                      .       .
                        .   .
                          .
+```
 
-SIMPLE RULES → COMPLEX WORLDS
+### SIMPLE RULES → COMPLEX WORLDS
 
 </div>
----
-
-CURRENTLY EXPLORING
-
-C++ · Physics · Mathematics · Cybersecurity · Game Development
-
 
 ---
 
-<div align="center">BUILD · EXPERIMENT · UNDERSTAND
+## CURRENTLY EXPLORING
 
-<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:180003,100:050505&height=120&section=footer"/></div>
-```
+`C++` · `Physics` · `Mathematics` · `Cybersecurity` · `Game Development`
+
+---
+
+<div align="center">
+
+### BUILD · EXPERIMENT · UNDERSTAND
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:180003,100:050505&height=120&section=footer"/>
+
+</div>
