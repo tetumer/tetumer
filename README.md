@@ -1,115 +1,142 @@
-# 👋 Hi, I'm Tetumer
+# Tetumer
 
-### 💻 Computer Science & Engineering Student
+### CSE Student · Software Developer · Builder
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CSE+Student;Software+Developer;Backend+Enthusiast;Machine+Learning+Explorer;Always+Building+Something+%F0%9F%9A%80" />
-</p>
+I like understanding how things work by building them myself.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tetumer&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/tetumer?label=Followers&style=flat" />
-  <img src="https://img.shields.io/github/stars/tetumer?label=Stars&style=flat" />
-</p>
+Currently studying Computer Science & Engineering and working across **C/C++, C#, JavaScript, React, Node.js, and ASP.NET Core**.
+
+I don't really have a single niche yet. I like moving between **software development, systems, cybersecurity, physics, and game development** and seeing what I can build.
 
 ---
 
-## 🧑‍💻 About Me
+## What I Build
 
-I'm a CSE student interested in:
+<table>
+<tr>
+<td width="50%">
 
-* 🧠 Machine Learning
-* ⚙️ Backend Development
-* 🌐 Full-Stack Development
-* 🖥️ Systems & Programming
-* 🔬 Building projects that actually work
+### Moi
 
-I enjoy learning by **building things, breaking them, and figuring out why they broke.** 😭
+A productivity application built around tasks, time management, XP, points, and a virtual economy.
+
+**React · Node.js · Express · SQLite · Turso**
+
+</td>
+<td width="50%">
+
+### Hospital Management System
+
+A full-stack hospital management system with role-based access and real-world workflow management.
+
+**React · ASP.NET Core · EF Core · SQLite**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Physics Simulator
+
+A C++ project for experimenting with physics and mathematical models through code.
+
+**C++ · Mathematics · Physics**
+
+</td>
+<td width="50%">
+
+### Developer Tools
+
+Small utilities built to solve actual problems and explore systems programming.
+
+**Python · C++ · Linux**
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tech Stack
+## Tech
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js" />
 </p>
 
 ### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,sqlite" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,express,sqlite" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,godot" />
 </p>
 
 ---
 
-# 🚀 Currently Building
-
-## 🏥 Hospital Management System
-
-A full-stack hospital management system designed around real-world hospital workflows.
-
-### Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,dotnet,sqlite" />
-</p>
-
-**Architecture**
-
-`React` → `ASP.NET Core Web API` → `Entity Framework Core` → `SQLite`
-
-
-
----
-
-# 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tetumer&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-
-# 🎯 What I'm Learning
+## Currently
 
 ```text
-C / C++          ████████████████████
-Web Development  ██████████████████░░
-Backend Systems  ████████████████░░░░
-Machine Learning ██████████████░░░░░░
-Systems          ████████████░░░░░░░░
-```
-
-
-
-
-# ⚡ Currently
-
-```text
-🎓 Studying       Computer Science & Engineering
-💻 Building       Full-Stack Applications
-🧠 Exploring      Machine Learning
-⚙️ Learning       Backend & Systems
-🚀 Goal           Build things worth keeping
+Studying      Computer Science & Engineering
+Building      Full-Stack Applications
+Exploring     Cybersecurity & Systems
+Experimenting Physics + Mathematics + Code
+Learning      C++ / .NET / Web Development
 ```
 
 ---
 
+## GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetumer&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tetumer&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+## Featured Work
+
 <p align="center">
 
-### 💭 "Still learning. Still building. Still breaking things."
+<a href="https://github.com/tetumer/task-">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tetumer&repo=task-&theme=github_dark&hide_border=true" />
+</a>
 
-<br>
+<a href="https://github.com/tetumer/Hostpital-app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=tetumer&repo=Hostpital-app&theme=github_dark&hide_border=true" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer"/>
+</p>
 
+---
+
+## A Bit More
+
+I prefer learning by **building instead of collecting tutorials**.
+
+Sometimes that means starting with something simple, breaking it completely, figuring out why it broke, and rebuilding it properly.
+
+That's usually where the interesting part starts.
+
+---
+
+<p align="center">
+  <a href="https://github.com/tetumer">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
+
+<p align="center">
+  <sub>Still learning. Still building.</sub>
 </p>
