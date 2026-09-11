@@ -1,222 +1,245 @@
 <div align="center">
 
-# TETUMER
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:250000,100:8B0000&height=220&section=header&text=TETUMER&fontSize=65&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CODE%20%E2%80%A2%20PHYSICS%20%E2%80%A2%20SYSTEMS&descAlignY=58&descSize=18&descColor=FF4444" width="100%" />
 
-### Computer Science & Engineering Student · Developer · Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+software+to+understand+how+it+works;C%2FC%2B%2B+%7C+C%23+%7C+JavaScript+%7C+Python;Backend+%7C+Systems+%7C+Cybersecurity;Physics+%2B+Mathematics+%2B+Code;Always+building+something" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1100&color=FF3333&center=true&vCenter=true&width=750&lines=I+build+things+to+understand+them.;C%2FC%2B%2B+%7C+C%23+%7C+JavaScript+%7C+Python;Systems+%7C+Cybersecurity+%7C+Physics;Mathematics+%2B+Code;Still+building..." />
 
 </div>
 
 ---
-
-## About Me
-
-I'm a Computer Science & Engineering student who likes learning by building.
-
-I work across different areas rather than sticking to one technology. I enjoy building applications, experimenting with systems and programming, exploring cybersecurity, and using code to understand physics and mathematics.
-
-> Build it. Break it. Figure out why it broke. Build it better.
-
----
-
-## What I Work With
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python" />
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,express,sqlite" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,godot" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:1A0000,100:080808&height=3&section=header" width="80%" />
 
 </div>
 
----
+## `01` — WHO AM I?
 
-## Currently Exploring
+I'm a Computer Science & Engineering student who learns by building.
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### Systems
-
-C / C++
-Low-level programming
-Performance
-Computer architecture
-
-</td>
-
-<td align="center" width="25%">
-
-### Backend
-
-ASP.NET Core
-EF Core
-APIs
-Databases
-
-</td>
-
-<td align="center" width="25%">
-
-### Cybersecurity
-
-Networking
-Security tools
-Web security
-CTFs
-
-</td>
-
-<td align="center" width="25%">
-
-### Physics
-
-Simulation
-Mathematics
-Algorithms
-Scientific programming
-
-</td>
-</tr>
-</table>
-
----
-
-# GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetumer&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" />
-
-</div>
-
-### Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tetumer&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-
-# My Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## Moi
-
-A productivity application built around tasks, time management, XP, points, and a virtual economy.
-
-**React · Node.js · Express · Turso**
-
-[View repository →](https://github.com/tetumer/task-)
-
-</td>
-
-<td width="50%" valign="top">
-
-## Hospital Management System
-
-A full-stack hospital management system with authentication, role-based access, patient management, doctor management, and more.
-
-**React · ASP.NET Core · EF Core · SQLite**
-
-[View repository →](https://github.com/tetumer/Hostpital-app)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## Physics
-
-C++ experiments exploring the connection between programming, mathematics, and physics.
-
-**C++ · Mathematics · Physics**
-
-[View repository →](https://github.com/tetumer/Physics)
-
-</td>
-
-<td width="50%" valign="top">
-
-## Tools
-
-A collection of utilities and programming experiments built to solve practical problems.
-
-**Python · C++**
-
-[View repository →](https://github.com/tetumer/tools)
-
-</td>
-</tr>
-</table>
-
----
-
-
-# What I'm Interested In
+I like moving between software development, systems, cybersecurity, physics, and mathematics instead of staying inside one box.
 
 ```text
-Software Development
-        │
-        ├── Full-Stack Applications
-        ├── Backend Systems
-        └── Developer Tools
-        │
-        ├── C / C++
-        ├── Systems Programming
-        └── Computer Architecture
-        │
-        ├── Cybersecurity
-        ├── Networking
-        └── Security Research
-        │
-        └── Physics + Mathematics
-             ├── Simulation
-             ├── Algorithms
-             └── Scientific Computing
+                    TETUMER
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+       SOFTWARE      SYSTEMS      SCIENCE
+          │            │            │
+       Backend       C / C++      Physics
+       Full-stack    Low-level    Mathematics
+       Tools         Security     Simulation
 ```
 
 ---
 
-# GitHub Profile
-
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=tetumer&label=Profile%20Views&color=58A6FF&style=flat" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B0000&height=2&section=header" width="60%" />
 
- 
+### THE WAY I THINK
 
-<img src="https://img.shields.io/github/followers/tetumer?label=Followers&style=flat" />
-
- 
-
-<img src="https://img.shields.io/github/stars/tetumer?label=Stars&style=flat" />
+`problem` → `experiment` → `break it` → `understand it` → `build again`
 
 </div>
 
 ---
 
+## `02` — THE TOOLBOX
+
 <div align="center">
 
-### Still learning. Still building.
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,js,python,react,nodejs,dotnet,express,sqlite,git,github,linux,godot" />
+
+</div>
+
+---
+
+## `03` — CURRENTLY EXPLORING
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### SYSTEMS
+
+```text
+C
+C++
+Memory
+Performance
+Computer Architecture
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### BACKEND
+
+```text
+ASP.NET Core
+EF Core
+REST APIs
+Databases
+Authentication
+```
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### SECURITY
+
+```text
+Networking
+Web Security
+Security Tools
+CTFs
+Reconnaissance
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### PHYSICS + MATH
+
+```text
+Functions
+Derivatives
+Vectors
+Simulation
+Scientific Programming
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:400000,100:050505&height=120&section=header&text=%CE%A3%20%20%20%E2%88%AB%20%20%20%E2%88%9E%20%20%20%E2%88%87%20%20%20%E2%86%92&fontSize=35&fontColor=FF3333&animation=fadeIn" width="100%" />
+
+</div>
+
+## `04` — PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### MOI
+
+A productivity application built around tasks, time management, XP, points, and a virtual economy.
+
+`React` `Node.js` `Express` `Turso`
+
+[Repository](https://github.com/tetumer/task-)
+
+</td>
+
+<td width="50%" valign="top">
+
+### HOSPITAL MANAGEMENT
+
+A full-stack hospital management system with authentication, roles, patient management, doctor management, and more.
+
+`React` `ASP.NET Core` `EF Core` `SQLite`
+
+[Repository](https://github.com/tetumer/Hostpital-app)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### PHYSICS
+
+C++ experiments connecting programming with mathematics and physics.
+
+`C++` `Mathematics` `Physics`
+
+[Repository](https://github.com/tetumer/Physics)
+
+</td>
+
+<td width="50%" valign="top">
+
+### TOOLS
+
+A collection of utilities and programming experiments for practical problems.
+
+`Python` `C++`
+
+[Repository](https://github.com/tetumer/tools)
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:300000,100:050505&height=150&section=header&text=F(x)%20%3D%20%3F&fontSize=48&fontColor=FF2222&animation=fadeIn" width="100%" />
+
+</div>
+
+## `05` — GITHUB DATA
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&theme=dark&hide_border=true&bg_color=080808&title_color=FF3333&icon_color=FF3333&text_color=CCCCCC&rank_icon=github&include_all_commits=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetumer&layout=compact&theme=dark&hide_border=true&bg_color=080808&title_color=FF3333&text_color=CCCCCC&langs_count=8" height="180" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tetumer&theme=dark&background=080808&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&hide_border=true" />
+
+</div>
+
+---
+
+## `06` — WHAT I'M CHASING
+
+<div align="center">
+
+```text
+       ┌──────────────────────────────────────┐
+       │                                      │
+       │       CODE → MODEL → SIMULATE         │
+       │              ↓                       │
+       │          UNDERSTAND                  │
+       │              ↓                       │
+       │           BUILD AGAIN                │
+       │                                      │
+       └──────────────────────────────────────┘
+```
+
+</div>
+
+I'm interested in the point where programming stops being just an application tool and starts becoming a way to explore systems, mathematics, and the physical world.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:250000,100:050505&height=140&section=footer&animation=fadeIn" width="100%" />
+
+### `BUILD • BREAK • UNDERSTAND`
 
 [GitHub](https://github.com/tetumer)
+
+<img src="https://komarev.com/ghpvc/?username=tetumer&label=PROFILE+VIEWS&color=8B0000&style=flat" />
 
 </div>
