@@ -1,1 +1,182 @@
-<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:240006,100:8B0000&height=220&section=header&text=TETUMER&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CODE%20%2F%20PHYSICS%20%2F%20SYSTEMS&descAlignY=58&descSize=18&descColor=FF4444"/>  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=FF3333&center=true&vCenter=true&width=700&lines=I+write+code+to+understand+systems.;I+study+physics+to+understand+nature.;I+follow+mathematics+wherever+it+leads.;Somewhere+between+order+and+chaos." />  <br>  <img src="https://komarev.com/ghpvc/?username=tetumer&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS" /> <img src="https://img.shields.io/github/followers/tetumer?style=for-the-badge&color=8B0000&labelColor=050505&label=FOLLOWERS" />  </div>  ---  <div align="center">  # THE SYSTEM  ```text ┌───────────────────────┐ │        TETUMER        │ └───────────┬───────────┘ │ ┌────────────────┼────────────────┐ │                │                │ CODE            PHYSICS           MATH │                │                │ ┌─────┴─────┐      ┌───┴───┐      ┌────┴────┐ │           │      │       │      │         │ SYSTEMS     GAMES   MOTION  CHAOS  LOGIC   PATTERNS │           │      │       │      │         │ └───────────┴──────┴───────┴──────┴─────────┘ │ UNKNOWN �  01 / ABOUT I'm a CSE student who likes building things and understanding why they work. My interests don't stay inside one box: C / C++ / C# │ ├── Software ├── Systems ├── Game Development └── Cybersecurity  Physics │ ├── Motion ├── Simulation ├── Dynamical Systems └── Chaos  Mathematics │ ├── Calculus ├── Differential Equations ├── Complex Numbers └── Patterns I don't want to only use abstractions. I want to understand what happens underneath them. �  02 / MATHEMATICS Euler e^(iπ) + 1 = 0 A single identity connecting five fundamental constants: e     i     π     1     0 │     │     │     │     │ └─────┴─────┴─────┴─────┘ │ one line Dynamics xₙ₊₁ = r xₙ(1 − xₙ) A tiny recursive rule can produce radically different behavior as r changes. ORDER │ │       ┌─┐ │      /   \ │     /     \      ┌─┐ │    /       \    /   \ │───/─────────\──/─────\──── │ └──────────────────────────────> r CHAOS Feigenbaum δ ≈ 4.669201609102990... The Feigenbaum constant appears in the period-doubling route to chaos. 1 │ ├────────────── 2 │ ├────── 4 │ ├── 8 │ ├─ 16 │ └────────────────→ CHAOS  δ ≈ 4.669201609... Simple rules → complex behavior. �  03 / WHAT I BUILD �  Moi A productivity system built around tasks, time, XP and a virtual economy. Stack React Node.js Express Turso Repository⁠� �  �  Hospital Management System A full-stack hospital management system with role-based access and medical workflows. Stack React ASP.NET Core EF Core SQLite Repository⁠� �  �  Physics Experiments and simulations connecting programming with mathematical and physical ideas. Stack C++ Math Physics Repository⁠� �  �  Tools Small utilities built to solve actual problems and experiment with systems programming. Stack Python C++ Repository⁠� �  �  04 / CURRENT STACK � ￼ �  05 / THE PHYSICS OF CODE INPUT │ ▼ ┌──────────────┐ │    SYSTEM    │ └──────┬───────┘ │ ┌──────┴───────┐ ▼              ▼ STATE          RULES │              │ └──────┬───────┘ ▼ OUTPUT │ ▼ STATE' │ └──────────────┐ │ ▼ LOOP That's what keeps pulling me toward simulations, systems and game development. Define a state. Define the rules. Run the system. Watch what emerges. �  06 / GITHUB � ￼ � ￼ �  �  07 / CHAOS . .   . .       . .           . .               . .                   . .                       . .                           . .                               . .                                   . .                                       . .                                           . .                                               . .                                                 . .                                               . .                                           . .                                       . .                                   . .                               . .                           . .                       . .                   . .               . .           . .       . .   . . "Simple rules can create complicated worlds." �  08 / CURRENTLY EXPLORING C++              ████████████████████ Physics          ██████████████████░░ Mathematics      ████████████████░░░░ Cybersecurity    ███████████████░░░░░ Game Development ██████████████░░░░░░ Not a skill rating. Just the directions I'm currently pulling toward. �  e^(iπ) + 1 = 0 xₙ₊₁ = r xₙ(1 − xₙ) δ ≈ 4.669201609... ORDER → COMPLEXITY → CHAOS � ￼ � ```" 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:180003,100:8B0000&height=230&section=header&text=TETUMER&fontSize=76&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CODE%20%2F%20SYSTEMS%20%2F%20PHYSICS&descAlignY=60&descSize=18&descColor=FF3333"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=FF3333&center=true&vCenter=true&width=700&lines=Building+things.;Breaking+things.;Understanding+how+things+work.;Somewhere+between+order+and+chaos." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=tetumer&style=for-the-badge&color=8B0000&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/tetumer?style=for-the-badge&color=8B0000&labelColor=050505&label=FOLLOWERS"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+                    T E T U M E R
+
+              CODE ──────── PHYSICS
+                │              │
+                │              │
+             SYSTEMS ──────── MATH
+                │              │
+                └──────┬───────┘
+                       │
+                    UNKNOWN
+
+</div>ABOUT ME
+
+I'm a CSE student who likes building things and figuring out what's happening underneath them.
+
+My interests sit somewhere around:
+
+Software · Systems · Game Development · Cybersecurity · Physics · Mathematics
+
+I don't really like staying inside one box.
+
+
+---
+
+<div align="center">e^(iπ) + 1 = 0
+
+                         │
+                         ▼
+
+                 δ ≈ 4.669201609...
+
+                         │
+                         ▼
+
+              ORDER  →  COMPLEXITY  →  CHAOS
+
+</div>
+---
+
+WHAT I BUILD
+
+<table>
+<tr>
+<td width="50%">Moi
+
+A productivity system built around tasks, time, XP and a virtual economy.
+
+React Node.js Express Turso
+
+View Project
+
+</td><td width="50%">Hospital Management System
+
+A full-stack hospital management system with role-based access and medical workflows.
+
+React ASP.NET Core EF Core SQLite
+
+View Project
+
+</td>
+</tr><tr>
+<td>Physics
+
+C++ experiments and simulations connecting programming with mathematical and physical ideas.
+
+C++ Math Physics
+
+View Project
+
+</td><td>Tools
+
+Small utilities built to solve problems and experiment with programming.
+
+Python C++
+
+View Project
+
+</td>
+</tr>
+</table>
+---
+
+<div align="center">CURRENT STACK
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js,nodejs,react,dotnet,git,github,linux,godot&theme=dark"/></div>
+---
+
+HOW I LIKE TO BUILD
+
+IDEA
+          │
+          ▼
+       EXPERIMENT
+          │
+          ▼
+        BUILD
+          │
+          ▼
+        BREAK
+          │
+          ▼
+      UNDERSTAND
+          │
+          └───────────────┐
+                          │
+                          ▼
+                       REBUILD
+
+A project doesn't have to be huge.
+
+Sometimes a small experiment is enough to uncover something interesting.
+
+
+---
+
+<div align="center">GITHUB
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&hide_border=true&bg_color=050505&title_color=FF3333&icon_color=FF3333&text_color=CCCCCC&ring_color=8B0000"/><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetumer&layout=compact&hide_border=true&bg_color=050505&title_color=FF3333&text_color=CCCCCC"/></div>
+---
+
+<div align="center">.
+                       .   .
+                     .       .
+                   .           .
+                 .               .
+               .                   .
+             .                       .
+           .                           .
+         .                               .
+       .                                   .
+     .                                       .
+   .                                           .
+ .                                               .
+.                                                 .
+ .                                               .
+   .                                           .
+     .                                       .
+       .                                   .
+         .                               .
+           .                           .
+             .                       .
+               .                   .
+                 .               .
+                   .           .
+                     .       .
+                       .   .
+                         .
+
+SIMPLE RULES → COMPLEX WORLDS
+
+</div>
+---
+
+CURRENTLY EXPLORING
+
+C++ · Physics · Mathematics · Cybersecurity · Game Development
+
+
+---
+
+<div align="center">BUILD · EXPERIMENT · UNDERSTAND
+
+<br><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:180003,100:050505&height=120&section=footer"/></div>
+```
