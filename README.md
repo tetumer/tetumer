@@ -1,56 +1,66 @@
 # Tetumer
 
-### CSE Student · Software Developer · Builder
+### Computer Science & Engineering Student
 
-I like understanding how things work by building them myself.
+I build software to understand how things work.
 
-Currently studying Computer Science & Engineering and working across **C/C++, C#, JavaScript, React, Node.js, and ASP.NET Core**.
+Currently working with **C, C++, C#, JavaScript, Python, React, Node.js, and ASP.NET Core**.
 
-I don't really have a single niche yet. I like moving between **software development, systems, cybersecurity, physics, and game development** and seeing what I can build.
+My interests move between **software development, backend systems, cybersecurity, game development, physics, and mathematics**.
 
 ---
 
-## What I Build
+## Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### Moi
 
 A productivity application built around tasks, time management, XP, points, and a virtual economy.
 
-**React · Node.js · Express · SQLite · Turso**
+**React · Node.js · Express · Turso**
+
+[View project →](https://github.com/tetumer/task-)
 
 </td>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### Hospital Management System
 
-A full-stack hospital management system with role-based access and real-world workflow management.
+A full-stack hospital management system with authentication, role-based access, patient management, doctor management, and more.
 
 **React · ASP.NET Core · EF Core · SQLite**
+
+[View project →](https://github.com/tetumer/Hostpital-app)
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Physics Simulator
+### Physics
 
-A C++ project for experimenting with physics and mathematical models through code.
+C++ experiments and simulations exploring the connection between programming, mathematics, and physics.
 
 **C++ · Mathematics · Physics**
 
+[View project →](https://github.com/tetumer/Physics)
+
 </td>
-<td width="50%">
 
-### Developer Tools
+<td width="50%" valign="top">
 
-Small utilities built to solve actual problems and explore systems programming.
+### Tools
 
-**Python · C++ · Linux**
+A collection of small utilities built to solve problems and experiment with programming.
+
+**Python · C++**
+
+[View project →](https://github.com/tetumer/tools)
 
 </td>
 </tr>
@@ -58,84 +68,66 @@ Small utilities built to solve actual problems and explore systems programming.
 
 ---
 
-## Tech
+## Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,js" />
-</p>
+`C` `C++` `C#` `JavaScript` `Python`
 
 ### Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,dotnet,express,sqlite" />
-</p>
+`React` `Node.js` `Express` `ASP.NET Core` `Entity Framework Core`
+
+### Databases
+
+`SQLite` `Turso`
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,godot" />
-</p>
+`Git` `GitHub` `VS Code` `Linux` `Godot`
+
+---
+
+## What I'm Exploring
+
+* Cybersecurity and network security
+* Systems programming
+* Backend architecture
+* Physics simulations
+* Mathematics through programming
+* Game development
+
+---
+
+## How I Learn
+
+I learn mostly by building.
+
+Instead of trying to learn everything before starting a project, I usually start with an idea, figure out what I need, build it, break it, and then understand why it broke.
+
+That process has taken me from small programming experiments to full-stack applications.
 
 ---
 
 ## Currently
 
-```text
-Studying      Computer Science & Engineering
-Building      Full-Stack Applications
-Exploring     Cybersecurity & Systems
-Experimenting Physics + Mathematics + Code
-Learning      C++ / .NET / Web Development
-```
+|           |                                          |
+| --------- | ---------------------------------------- |
+| Education | Computer Science & Engineering           |
+| Focus     | Software Development                     |
+| Learning  | C++ · .NET · Cybersecurity               |
+| Exploring | Physics · Mathematics · Game Development |
+| Building  | Projects that solve actual problems      |
 
 ---
 
 ## GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tetumer&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetumer&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+You can find my experiments, projects, and ongoing work here:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tetumer&theme=github-dark-blue&hide_border=true" />
-</p>
+**[github.com/tetumer →](https://github.com/tetumer)**
 
 ---
-
-## Featured Work
-
-<p align="center">
-
-<a href="https://github.com/tetumer/task-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tetumer&repo=task-&theme=github_dark&hide_border=true" />
-</a>
-
-<a href="https://github.com/tetumer/Hostpital-app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tetumer&repo=Hostpital-app&theme=github_dark&hide_border=true" />
-</a>
-
-</p>
-
----
-
-## A Bit More
-
-I prefer learning by **building instead of collecting tutorials**.
-
-Sometimes that means starting with something simple, breaking it completely, figuring out why it broke, and rebuilding it properly.
-
-That's usually where the interesting part starts.
-
----
-
-<p align="center">
-  <a href="https://github.com/tetumer">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
 
 <p align="center">
   <sub>Still learning. Still building.</sub>
